@@ -1,2 +1,4 @@
-# boj-zandi-challenge
-🍏🌿 소중한 🥦🥬 우리 🥒🌲 잔디 🌳🌴🪴 푸르게 🍀💚 푸르게~ ☘️🍃🌱
+
+### 1. 김선영
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm)
+
