@@ -5,3 +5,6 @@
 
 ### 2. 김현수
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimhyunsu11&theme=warm)
+
+### 3. 고민지
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=alswl4534&theme=warm)
