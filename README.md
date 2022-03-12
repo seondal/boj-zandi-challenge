@@ -8,3 +8,6 @@
 
 ### 3. 고민지
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=alswl4534&theme=warm)
+
+### 4. 오지은
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=0909oje&theme=warm)
