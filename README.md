@@ -12,5 +12,21 @@
 ### 4. 오지은
 <a href="https://solved.ac/profile/0909oje"><img src="http://mazandi.herokuapp.com/api?handle=0909oje&theme=warm" /></a>
 
+### 5. 장예서
+<a href="https://solved.ac/profile/redemptio"><img src="http://mazandi.herokuapp.com/api?handle=redemptio&theme=warm" /></a>
+
 ### 6. 구민정
 <a href="https://solved.ac/profile/aefyjo982"><img src="http://mazandi.herokuapp.com/api?handle=aefyjo982&theme=warm" /></a>
+
+### 7. 한현경
+<a href="https://solved.ac/profile/hkcode23"><img src="http://mazandi.herokuapp.com/api?handle=hkcode23&theme=warm" /></a>
+
+### 8. 한예송
+<a href="https://solved.ac/profile/jadely"><img src="http://mazandi.herokuapp.com/api?handle=jadely&theme=warm" /></a>
+
+### 9. 민경원
+<a href="https://solved.ac/profile/mkkw0228"><img src="http://mazandi.herokuapp.com/api?handle=mkkw0228&theme=warm" /></a>
+
+### 10. 김채연
+<a href="https://solved.ac/profile/codus321"><img src="http://mazandi.herokuapp.com/api?handle=codus321&theme=warm" /></a>
+
