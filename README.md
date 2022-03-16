@@ -13,7 +13,7 @@
 <a href="https://solved.ac/profile/0909oje"><img src="http://mazandi.herokuapp.com/api?handle=0909oje&theme=warm" /></a>
 
 ### 5. 장예서
-<a href="https://solved.ac/profile/redemptio"><img src="http://mazandi.herokuapp.com/api?handle=redemptio&theme=warm" /></a>
+<a href="https://solved.ac/profile/redemption"><img src="http://mazandi.herokuapp.com/api?handle=redemption&theme=warm" /></a>
 
 ### 6. 구민정
 <a href="https://solved.ac/profile/aefyjo982"><img src="http://mazandi.herokuapp.com/api?handle=aefyjo982&theme=warm" /></a>
